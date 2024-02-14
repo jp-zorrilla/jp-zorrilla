@@ -3,9 +3,9 @@ My name is Juan!
 
 - I'm professional with experience in teaching and sports, with a passion for data analysis and artificial intelligence 👨‍💻.
 
-- In my role as a teacher, I have developed communication, teamwork, and problem-solving skills. I have also demonstrated my ability to adapt to different environments and to work with students of different skill levels.👨‍🏫 
+- In my role as a Social Science teacher, I have developed communication, teamwork, and problem-solving skills. I have also demonstrated my ability to adapt to different environments and to work with students of different skill levels.👨‍🏫 
 
-- As a coach, I have developed leadership, motivation, and organizational skills. I have also demonstrated my ability to work under pressure and to achieve goals.🏀
+- As a basketball coach, I have developed leadership, motivation, and organizational skills. I have also demonstrated my ability to work under pressure and to achieve goals.🏀
 
 - 🔭 I’m currently working on lithium project (exploration, exploitation, price prediction) usign MS Excel, Power Query, Power BI and Python 🐍
 
