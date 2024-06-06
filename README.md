@@ -7,6 +7,6 @@ My name is Juan!
 
 - As a basketball coach, I have developed leadership, motivation, and organizational skills. I have also demonstrated my ability to work under pressure and to achieve goals.🏀
 
-- 🔭 I’m currently working on lithium project (exploration, exploitation, price prediction) usign MS Excel, Power Query, Power BI and Python 🐍
+- 🔭 I’m currently working on lithium project (exploration, explotation, price prediction) usign MS Excel, Power Query, Power BI and Python 🐍
 
 - ⏭️I'm to become Technician in Data Science and Artificial Intelligence. I'm excited about the opportunity to apply my skills and experience to make a career in this field.😄-
