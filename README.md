@@ -22,8 +22,8 @@ My name is Juan!
   
   **PROYECTS**
   - [**Barrios Populares Proyec**] (https://github.com/jp-zorrilla/Barrios_Populares_CABA_ARG): Data Analysis of Popular Neighborhoods in the Province of Buenos Aires, Argentina
-
-  -[**Rental Prediction Algorithim**] (https://github.com/Grupo-16-ISPC/proyecto_alquileres): Develop a Python algorithm that calculates the rental price of properties in Buenos Aires, Argentina, based on square meter input via the console
+    
+  - [**Rental Prediction Algorithim**] (https://github.com/Grupo-16-ISPC/proyecto_alquileres): Develop a Python algorithm that calculates the rental price of properties in Buenos Aires, Argentina, based on square meter input via the console
 
 ## Conctact
 -[**LinkedIN**] (https://www.linkedin.com/in/jp-zorrilla-it/)
