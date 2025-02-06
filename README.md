@@ -21,7 +21,7 @@ My name is Juan!
               **Power Bi** (Gaining experience in Power BI for creating interactive dashboards and reports)
   
   **PROYECTS**
-  - [**Barrios Populares Proyec**] (https://github.com/jp-zorrilla/Barrios_Populares_CABA_ARG): Data Analysis of Popular Neighborhoods in the Province of Buenos Aires, Argentina
+  - [**Barrios Populares Proyec**] (https://github.com/jp-zorrilla/Barrios_Populares_CABA_ARG): Data Analysis of Popular Neighborhoods in the Ciudad Autonoma de Buenos Aires, Argentina
     
   - [**Rental Prediction Algorithim**] (https://github.com/Grupo-16-ISPC/proyecto_alquileres): Develop a Python algorithm that calculates the rental price of properties in Buenos Aires, Argentina, based on square meter input via the console
 
